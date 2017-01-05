@@ -3,10 +3,7 @@
 A repository with which to practice using git.
 
 ### What is your name?
-
-> Answer goes here
-
+Mitesh Goyal
 
 ### What is your favorite color?
-
-> Answer goes here
+Blue
